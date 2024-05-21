@@ -1,0 +1,64 @@
+
+
+.Heading {
+
+color:#374d5f;
+font-family:courier;
+text-align:center;
+text-shadow: 2px 3px 15px #7f8f98;
+
+
+}
+
+.SubHeading {
+	
+	color:#67859e;
+	text-align:center;
+
+}
+
+.TextBody {
+	
+	color:grey;
+	text-align:center;
+
+}
+
+.Seperator {
+	
+	
+	color:#6e8191;
+	font-family:courier;
+	text-align:center;
+	
+}
+
+
+#Map {
+border-style: outset;
+  border-width: 5px;
+  border-radius: 5px;
+  padding-right: 0px;
+  padding-left: 0px;
+  height: 450px;
+  width: 32.04%;
+    margin-left: auto;
+  margin-right: auto;
+border-color: #BAC5CC;
+border-inline-end-width: 10px;
+
+  padding: 10px;
+  border-radius: 10px 20px;
+  text-shadow: 2px 3px 15px #7f8f98;
+    transition-property: width;
+  transition-duration: 5s;
+  transition-delay: 2s;
+  
+  
+  
+  
+}
+
+div:hover {
+  width: 300px;
+}
